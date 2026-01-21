@@ -1,7 +1,4 @@
 ## Hi there 👋
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/1145200737698201680?bg=000000&idleMessage=Sleepy&showDisplayName=true&theme=dark)](https://discord.com/users/1145200737698201680)
-
 <!--
 **ynauy/ynauy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
