@@ -13,5 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-暇なときにいろいろしています。
-ほぼ自分用です。
+なゆっていいます。
+どこにでもいる高校生です。
+特に定まったことを中心にはしてません
